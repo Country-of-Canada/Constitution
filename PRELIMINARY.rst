@@ -6,7 +6,7 @@ And whereas such a Union would conduce to the Welfare of the Provinces and promo
 
 And whereas on the Establishment of the Union by Authority of Parliament it is expedient, not only that the Constitution of the Legislative Authority in the Dominion be provided for, but also that the Nature of the Executive Government therein be declared:
 
-And whereas it is expedient that Provision be made for the eventual Admission into the Union of other Parts of British North America: (1)
+And whereas it is expedient that Provision be made for the eventual Admission into the Union of other Parts of British North America:
 
 ==============
 I. PRELIMINARY
@@ -15,5 +15,6 @@ I. PRELIMINARY
 Short title
 ===========
 
-1. This Act may be cited as the Constitution Act, 1867. (2)
-2. Repealed. (3)
+1. This Act may be cited as the Constitution Act, 1867.
+
+2. Repealed.
