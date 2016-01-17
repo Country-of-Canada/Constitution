@@ -31,6 +31,7 @@ Representation of Provinces in Senate
 -------------------------------------
 
 22. In relation to the Constitution of the Senate Canada shall be deemed to consist of Four Divisions:
+
 1. Ontario;
 2. Quebec;
 3. The Maritime Provinces, Nova Scotia and New Brunswick, and Prince Edward Island;
@@ -82,9 +83,12 @@ Maximum Number of Senators
 Tenure of Place in Senate
 -------------------------
 
-29. (1) Subject to subsection (2), a Senator shall, subject to the provisions of this Act, hold his place in the Senate for life.
+29.
+
+(1) Subject to subsection (2), a Senator shall, subject to the provisions of this Act, hold his place in the Senate for life.
 
 Retirement upon attaining age of seventy-five years
+---------------------------------------------------
 
 (2) A Senator who is summoned to the Senate after the coming into force of this subsection shall, subject to this Act, hold his place in the Senate until he attains the age of seventy-five years.
 
@@ -217,15 +221,18 @@ Duration of House of Commons
 Readjustment of representation in Commons
 -----------------------------------------
 
-51. (1) The number of members of the House of Commons and the representation of the provinces therein shall, on the completion of each decennial census, be readjusted by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time, subject and according to the following rules: 
+51. 
+
+(1) The number of members of the House of Commons and the representation of the provinces therein shall, on the completion of each decennial census, be readjusted by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time, subject and according to the following rules: 
 
 Rules
+
 1. There shall be assigned to each of the provinces a number of members equal to the number obtained by dividing the population of the province by the electoral quotient and rounding up any fractional remainder to one.
-# If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province on the date of the coming into force of the Constitution Act, 1985 (Representation), there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
-2. After the application of rules 1 and 2 and section 51A, there shall, in respect of each province that meets the condition set out in rule 4, be added, if necessary, a number of members such that, on the completion of the readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces is as close as possible to, without being below, the number obtained by dividing the population of that province by the total population of all the provinces.
-3. Rule 3 applies to a province if, on the completion of the preceding readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces was equal to or greater than the number obtained by dividing the population of that province by the total population of all the provinces, the population of each province being its population as at July 1 of the year of the decennial census that preceded that readjustment according to the estimates prepared for the purpose of that readjustment.
-4. Unless the context indicates otherwise, in these rules, the population of a province is the estimate of its population as at July 1 of the year of the most recent decennial census.
-5. In these rules, “electoral quotient” means 
+2. If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province on the date of the coming into force of the Constitution Act, 1985 (Representation), there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
+3. After the application of rules 1 and 2 and section 51A, there shall, in respect of each province that meets the condition set out in rule 4, be added, if necessary, a number of members such that, on the completion of the readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces is as close as possible to, without being below, the number obtained by dividing the population of that province by the total population of all the provinces.
+4. Rule 3 applies to a province if, on the completion of the preceding readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces was equal to or greater than the number obtained by dividing the population of that province by the total population of all the provinces, the population of each province being its population as at July 1 of the year of the decennial census that preceded that readjustment according to the estimates prepared for the purpose of that readjustment.
+5. Unless the context indicates otherwise, in these rules, the population of a province is the estimate of its population as at July 1 of the year of the most recent decennial census.
+6. In these rules, “electoral quotient” means
    (a) 111,166, in relation to the readjustment following the completion of the 2011 decennial census, and
    (b) in relation to the readjustment following the completion of any subsequent decennial census, the number obtained by multiplying the electoral quotient that was applied in the preceding readjustment by the number that is the average of the numbers obtained by dividing the population of each province by the population of the province as at July 1 of the year of the preceding decennial census according to the estimates prepared for the purpose of the preceding readjustment, and rounding up any fractional remainder of that multiplication to one. 
 
