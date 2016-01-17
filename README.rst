@@ -4,17 +4,17 @@ Constitution of Canada
 
 This repository contains the Constitution of Canada as of January the 17th, 2016:
 
-* FOREWORD
+* FOREWORD_
 * PRELIMINARY
 * UNION
 * EXECUTIVE POWER
 * LEGISLATIVE POWER
-** The Senate
-** The House of Commons
-** Money Votes, Royal Assent
+ * The Senate
+ * The House of Commons
+ * Money Votes, Royal Assent
 * PROVINCIAL CONSTITUTIONS
-** Executive Power
-** Legislative Power
+ * Executive Power
+ * Legislative Power
 * DISTRIBUTION OF LEGISLATIVE POWERS
 * JUDICATURE
 * REVENUES; DEBTS; ASSETS; TAXATION
@@ -29,3 +29,5 @@ This repository contains the Constitution of Canada as of January the 17th, 2016
 * THE SIXTH SCHEDULE
 
 Feel free to fork it and contribute to its improvement.
+
+.. _FOREWORD: FOREWORD.rst
