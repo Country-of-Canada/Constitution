@@ -9,48 +9,52 @@ Legislative Authority of Parliament of Canada
 ---------------------------------------------
 
 91. It shall be lawful for the Queen, by and with the Advice and Consent of the
-Senate and House of Commons, to make Laws for the Peace, Order, and good Government
-of Canada, in relation to all Matters not coming within the Classes of Subjects
-by this Act assigned exclusively to the Legislatures of the Provinces; and for
-greater Certainty, but not so as to restrict the Generality of the foregoing Terms of
-this Section, it is hereby declared that (notwithstanding anything in this Act) the exclusive
-Legislative Authority of the Parliament of Canada extends to all Matters
-coming within the Classes of Subjects next hereinafter enumerated; that is to say,
+    Senate and House of Commons, to make Laws for the Peace, Order, and good Government
+    of Canada, in relation to all Matters not coming within the Classes of Subjects
+    by this Act assigned exclusively to the Legislatures of the Provinces; and for
+    greater Certainty, but not so as to restrict the Generality of the foregoing Terms of
+    this Section, it is hereby declared that (notwithstanding anything in this Act) the exclusive
+    Legislative Authority of the Parliament of Canada extends to all Matters
+    coming within the Classes of Subjects next hereinafter enumerated; that is to say,
 
-   1. Repealed.
-   1A. The Public Debt and Property.
-   2. The Regulation of Trade and Commerce.
-   2A. Unemployment insurance.
-   3. The raising of Money by any Mode or System of Taxation.
-   4. The borrowing of Money on the Public Credit.
-   5. Postal Service.
-   6. The Census and Statistics.
-   7. Militia, Military and Naval Service, and Defence.
-   8. The fixing of and providing for the Salaries and Allowances of Civil and other Officers of the Government of Canada.
-   9. Beacons, Buoys, Lighthouses, and Sable Island.
-   10. Navigation and Shipping.
-   11. Quarantine and the Establishment and Maintenance of Marine Hospitals.
-   12. Sea Coast and Inland Fisheries.
-   13. Ferries between a Province and any British or Foreign Country or between Two Provinces.
-   14. Currency and Coinage.
-   15. Banking, Incorporation of Banks, and the Issue of Paper Money.
-   16. Savings Banks.
-   17. Weights and Measures.
-   18. Bills of Exchange and Promissory Notes.
-   19. Interest.
-   20. Legal Tender.
-   21. Bankruptcy and Insolvency.
-   22. Patents of Invention and Discovery.
-   23. Copyrights.
-   24. Indians, and Lands reserved for the Indians.
-   25. Naturalization and Aliens.
-   26. Marriage and Divorce.
-   27. The Criminal Law, except the Constitution of Courts of Criminal Jurisdiction,
-       but including the Procedure in Criminal Matters.
-   28. The Establishment, Maintenance, and Management of Penitentiaries.
-   29. Such Classes of Subjects as are expressly excepted in the Enumeration of
-       the Classes of Subjects by this Act assigned exclusively to the Legislatures
-       of the Provinces.
+    1. Repealed.
+   
+       1A. The Public Debt and Property.
+      
+    2. The Regulation of Trade and Commerce.
+   
+       2A. Unemployment insurance.
+
+    3. The raising of Money by any Mode or System of Taxation.
+    4. The borrowing of Money on the Public Credit.
+    5. Postal Service.
+    6. The Census and Statistics.
+    7. Militia, Military and Naval Service, and Defence.
+    8. The fixing of and providing for the Salaries and Allowances of Civil and other Officers of the Government of Canada.
+    9. Beacons, Buoys, Lighthouses, and Sable Island.
+    10. Navigation and Shipping.
+    11. Quarantine and the Establishment and Maintenance of Marine Hospitals.
+    12. Sea Coast and Inland Fisheries.
+    13. Ferries between a Province and any British or Foreign Country or between Two Provinces.
+    14. Currency and Coinage.
+    15. Banking, Incorporation of Banks, and the Issue of Paper Money.
+    16. Savings Banks.
+    17. Weights and Measures.
+    18. Bills of Exchange and Promissory Notes.
+    19. Interest.
+    20. Legal Tender.
+    21. Bankruptcy and Insolvency.
+    22. Patents of Invention and Discovery.
+    23. Copyrights.
+    24. Indians, and Lands reserved for the Indians.
+    25. Naturalization and Aliens.
+    26. Marriage and Divorce.
+    27. The Criminal Law, except the Constitution of Courts of Criminal Jurisdiction,
+        but including the Procedure in Criminal Matters.
+    28. The Establishment, Maintenance, and Management of Penitentiaries.
+    29. Such Classes of Subjects as are expressly excepted in the Enumeration of
+        the Classes of Subjects by this Act assigned exclusively to the Legislatures
+        of the Provinces.
 
 And any Matter coming within any of the Classes of Subjects enumerated in this
 Section shall not be deemed to come within the Class of Matters of a local or private
@@ -112,55 +116,56 @@ Subjects of exclusive Provincial Legislation
         Laws respecting non-renewable natural resources, forestry resources and electrical energy
 
 92A. 
-     (1) In each province, the legislature may exclusively make laws in relation to
+    (1) In each province, the legislature may exclusively make laws in relation to
 
-         (a) exploration for non-renewable natural resources in the province;
-         (b) development, conservation and management of non-renewable natural resources
-             and forestry resources in the province, including laws in relation to the
-             rate of primary production therefrom; and
-         (c) development, conservation and management of sites and facilities in the
-             province for the generation and production of electrical energy.
+        (a) exploration for non-renewable natural resources in the province;
+        (b) development, conservation and management of non-renewable natural resources
+            and forestry resources in the province, including laws in relation to the
+            rate of primary production therefrom; and
+        (c) development, conservation and management of sites and facilities in the
+            province for the generation and production of electrical energy.
 
 Export from provinces of resources
 
-     (2) In each province, the legislature may make laws in relation to the export from
-         the province to another part of Canada of the primary production from non-renewable
-         natural resources and forestry resources in the province and the production
-         from facilities in the province for the generation of electrical energy, but such laws
-         may not authorize or provide for discrimination in prices or in supplies exported to
-         another part of Canada.
+(2) In each province, the legislature may make laws in relation to the export from
+    the province to another part of Canada of the primary production from non-renewable
+    natural resources and forestry resources in the province and the production
+    from facilities in the province for the generation of electrical energy, but such laws
+    may not authorize or provide for discrimination in prices or in supplies exported to
+    another part of Canada.
 
 Authority of Parliament
 
-     (3) Nothing in subsection (2) derogates from the authority of Parliament to enact
-         laws in relation to the matters referred to in that subsection and, where such a law of
-         Parliament and a law of a province conflict, the law of Parliament prevails to the
-         extent of the conflict.
+(3) Nothing in subsection (2) derogates from the authority of Parliament to enact
+    laws in relation to the matters referred to in that subsection and, where such a law of
+    Parliament and a law of a province conflict, the law of Parliament prevails to the
+    extent of the conflict.
 
 Taxation of resources
 
-     (4) In each province, the legislature may make laws in relation to the raising of
-         money by any mode or system of taxation in respect of
+(4) In each province, the legislature may make laws in relation to the raising of
+    money by any mode or system of taxation in respect of
 
-         (a) non-renewable natural resources and forestry resources in the province and
-             the primary production therefrom, and
-         (b) sites and facilities in the province for the generation of electrical energy and
-             the production therefrom,
-     whether or not such production is exported in whole or in part from the province,
-     but such laws may not authorize or provide for taxation that differentiates between
-     production exported to another part of Canada and production not exported from the
-     province.
+    (a) non-renewable natural resources and forestry resources in the province and
+        the primary production therefrom, and
+    (b) sites and facilities in the province for the generation of electrical energy and
+        the production therefrom,
+
+whether or not such production is exported in whole or in part from the province,
+but such laws may not authorize or provide for taxation that differentiates between
+production exported to another part of Canada and production not exported from the
+province.
 
 “Primary production”
 
-     (5) The expression “primary production” has the meaning assigned by the Sixth
-         Schedule.
+(5) The expression “primary production” has the meaning assigned by the Sixth
+    Schedule.
 
 Existing powers or rights
 
-     (6) Nothing in subsections (1) to (5) derogates from any powers or rights that a
-         legislature or government of a province had immediately before the coming into
-         force of this section.
+(6) Nothing in subsections (1) to (5) derogates from any powers or rights that a
+    legislature or government of a province had immediately before the coming into
+    force of this section.
 
 EDUCATION
 ---------
@@ -170,31 +175,31 @@ Legislation respecting Education
 93. In and for each Province the Legislature may exclusively make Laws in relation
     to Education, subject and according to the following Provisions:
 
-   (1) Nothing in any such Law shall prejudicially affect any Right or Privilege
-       with respect to Denominational Schools which any Class of Persons have by
+(1) Nothing in any such Law shall prejudicially affect any Right or Privilege
+    with respect to Denominational Schools which any Class of Persons have by
 
 Law in the Province at the Union;
 
-   (2) All the Powers, Privileges, and Duties at the Union by Law conferred and
-       imposed in Upper Canada on the Separate Schools and School Trustees of
-       the Queen’s Roman Catholic Subjects shall be and the same are hereby extended
-       to the Dissentient Schools of the Queen’s Protestant and Roman
-       Catholic Subjects in Quebec;
-   (3) Where in any Province a System of Separate or Dissentient Schools exists
-       by Law at the Union or is thereafter established by the Legislature of the
-       Province, an Appeal shall lie to the Governor General in Council from any
-       Act or Decision of any Provincial Authority affecting any Right or Privilege
-       of the Protestant or Roman Catholic Minority of the Queen’s Subjects in relation
-       to Education;
-   (4) In case any such Provincial Law as from Time to Time seems to the Governor
-       General in Council requisite for the due Execution of the Provisions of
-       this Section is not made, or in case any Decision of the Governor General in
-       Council on any Appeal under this Section is not duly executed by the proper
-       Provincial Authority in that Behalf, then and in every such Case, and as far
-       only as the Circumstances of each Case require, the Parliament of Canada
-       may make remedial Laws for the due Execution of the Provisions of this
-       Section and of any Decision of the Governor General in Council under this
-       Section.
+(2) All the Powers, Privileges, and Duties at the Union by Law conferred and
+    imposed in Upper Canada on the Separate Schools and School Trustees of
+    the Queen’s Roman Catholic Subjects shall be and the same are hereby extended
+    to the Dissentient Schools of the Queen’s Protestant and Roman
+    Catholic Subjects in Quebec;
+(3) Where in any Province a System of Separate or Dissentient Schools exists
+    by Law at the Union or is thereafter established by the Legislature of the
+    Province, an Appeal shall lie to the Governor General in Council from any
+    Act or Decision of any Provincial Authority affecting any Right or Privilege
+    of the Protestant or Roman Catholic Minority of the Queen’s Subjects in relation
+    to Education;
+(4) In case any such Provincial Law as from Time to Time seems to the Governor
+    General in Council requisite for the due Execution of the Provisions of
+    this Section is not made, or in case any Decision of the Governor General in
+    Council on any Appeal under this Section is not duly executed by the proper
+    Provincial Authority in that Behalf, then and in every such Case, and as far
+    only as the Circumstances of each Case require, the Parliament of Canada
+    may make remedial Laws for the due Execution of the Provisions of this
+    Section and of any Decision of the Governor General in Council under this
+    Section.
 
 Quebec
 
