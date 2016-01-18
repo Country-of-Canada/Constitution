@@ -255,3 +255,33 @@ Increase of Number of House of Commons
 --------------------------------------
 
 52. The Number of Members of the House of Commons may be from Time to Time increased by the Parliament of Canada, provided the proportionate Representation of the Provinces prescribed by this Act is not thereby disturbed.
+
+MONEY VOTES; ROYAL ASSENT
+=========================
+
+Appropriation and Tax Bills
+---------------------------
+
+53. Bills for appropriating any Part of the Public Revenue, or for imposing any Tax or Impost, shall originate in the House of Commons.
+
+Recommendation of Money Votes
+-----------------------------
+
+54. It shall not be lawful for the House of Commons to adopt or pass any Vote, Resolution, Address, or Bill for the Appropriation of any Part of the Public Revenue, or of any Tax or Impost, to any Purpose that has not been first recommended to that House by Message of the Governor General in the Session in which such Vote, Resolution, Address, or Bill is proposed.
+
+Royal Assent to Bills, etc.
+---------------------------
+
+55. Where a Bill passed by the Houses of the Parliament is presented to the Governor General for the Queen’s Assent, he shall declare, according to his Discretion, but subject to the Provisions of this Act and to Her Majesty’s Instructions, either that he assents thereto in the Queen’s Name, or that he withholds the Queen’s Assent, or that he reserves the Bill for the Signification of the Queen’s Pleasure.
+
+Disallowance by Order in Council of Act assented to by Governor General
+-----------------------------------------------------------------------
+
+56. Where the Governor General assents to a Bill in the Queen’s Name, he shall by the first convenient Opportunity send an authentic Copy of the Act to One of Her Majesty’s Principal Secretaries of State, and if the Queen in Council within Two Years after Receipt thereof by the Secretary of State thinks fit to disallow the Act, such Disallowance (with a Certificate of the Secretary of State of the Day on which the Act was received by him) being signified by the Governor General, by Speech or Message to each of the Houses of the Parliament or by Proclamation, shall annul the Act from and after the Day of such Signification.
+
+Signification of Queen’s Pleasure on Bill reserved
+--------------------------------------------------
+
+57. A Bill reserved for the Signification of the Queen’s Pleasure shall not have any Force unless and until, within Two Years from the Day on which it was presented to the Governor General for the Queen’s Assent, the Governor General signifies, by Speech or Message to each of the Houses of the Parliament or by Proclamation, that it has received the Assent of the Queen in Council. 
+
+An Entry of every such Speech, Message, or Proclamation shall be made in the Journal of each House, and a Duplicate thereof duly attested shall be delivered to the proper Officer to be kept among the Records of Canada.
