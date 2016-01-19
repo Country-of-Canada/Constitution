@@ -42,9 +42,10 @@ Maximum duration of legislative bodies
 --------------------------------------
 
 4. 
-   (1) No House of Commons and no legislative assembly shall continue for
-       longer than five years from the date fixed for the return of the writs at a general
-       election of its members.
+
+(1) No House of Commons and no legislative assembly shall continue for
+    longer than five years from the date fixed for the return of the writs at a general
+    election of its members.
 
 Continuation in special circumstances
 -------------------------------------
@@ -68,8 +69,9 @@ Mobility of citizens
 --------------------
 
 6. 
-   (1) Every citizen of Canada has the right to enter, remain in and leave
-       Canada.
+
+(1) Every citizen of Canada has the right to enter, remain in and leave
+    Canada.
 
 Rights to move and gain livelihood
 ----------------------------------
@@ -184,10 +186,11 @@ Equality before and under law and equal protection and benefit of law
 ---------------------------------------------------------------------
 
 15. 
-    (1) Every individual is equal before and under the law and has the right to
-        the equal protection and equal benefit of the law without discrimination and, in particular,
-        without discrimination based on race, national or ethnic origin, colour, religion,
-        sex, age or mental or physical disability.
+
+(1) Every individual is equal before and under the law and has the right to
+    the equal protection and equal benefit of the law without discrimination and, in particular,
+    without discrimination based on race, national or ethnic origin, colour, religion,
+    sex, age or mental or physical disability.
 
 Affirmative action programs
 ---------------------------
@@ -204,9 +207,10 @@ Official languages of Canada
 ----------------------------
 
 16. 
-    (1) English and French are the official languages of Canada and have equality
-        of status and equal rights and privileges as to their use in all institutions of the
-        Parliament and government of Canada.
+
+(1) English and French are the official languages of Canada and have equality
+    of status and equal rights and privileges as to their use in all institutions of the
+    Parliament and government of Canada.
 
 Official languages of New Brunswick
 -----------------------------------
@@ -223,10 +227,11 @@ Advancement of status and use
     English and French linguistic communities in New Brunswick
 
 16.1 
-     (1) The English linguistic community and the French linguistic community
-         in New Brunswick have equality of status and equal rights and privileges, including
-         the right to distinct educational institutions and such distinct cultural institutions as
-         are necessary for the preservation and promotion of those communities.
+
+(1) The English linguistic community and the French linguistic community
+    in New Brunswick have equality of status and equal rights and privileges, including
+    the right to distinct educational institutions and such distinct cultural institutions as
+    are necessary for the preservation and promotion of those communities.
 
 Role of the legislature and government of New Brunswick
 -------------------------------------------------------
@@ -237,9 +242,10 @@ Role of the legislature and government of New Brunswick
 Proceedings of Parliament
 -------------------------
 
-17. 
-    (1) Everyone has the right to use English or French in any debates and other
-        proceedings of Parliament.
+17.
+
+(1) Everyone has the right to use English or French in any debates and other
+    proceedings of Parliament.
 
 Proceedings of New Brunswick legislature
 ----------------------------------------
@@ -251,8 +257,9 @@ Parliamentary statutes and records
 ----------------------------------
 
 18.
-    (1) The statutes, records and journals of Parliament shall be printed and published
-        in English and French and both language versions are equally authoritative.
+
+(1) The statutes, records and journals of Parliament shall be printed and published
+    in English and French and both language versions are equally authoritative.
 
 New Brunswick statutes and records
 ----------------------------------
@@ -265,8 +272,9 @@ Proceedings in courts established by Parliament
 -----------------------------------------------
 
 19.
-   (1) Either English or French may be used by any person in, or in any pleading
-       in or process issuing from, any court established by Parliament.
+
+(1) Either English or French may be used by any person in, or in any pleading
+    in or process issuing from, any court established by Parliament.
 
 Proceedings in New Brunswick courts
 -----------------------------------
@@ -277,21 +285,22 @@ Proceedings in New Brunswick courts
 Communications by public with federal institutions
 --------------------------------------------------
 
-20. 
-   (1) Any member of the public in Canada has the right to communicate with,
-       and to receive available services from, any head or central office of an institution of
-       the Parliament or government of Canada in English or French, and has the same
-       right with respect to any other office of any such institution where
+20.
 
-       (a) there is a significant demand for communications with and services from that
-           office in such language; or
-       (b) due to the nature of the office, it is reasonable that communications with and
-           services from that office be available in both English and French.
-           Communications by public with New Brunswick institutions
+(1) Any member of the public in Canada has the right to communicate with,
+    and to receive available services from, any head or central office of an institution of
+    the Parliament or government of Canada in English or French, and has the same
+    right with respect to any other office of any such institution where
 
-   (2) Any member of the public in New Brunswick has the right to communicate
-       with, and to receive available services from, any office of an institution of the legislature
-       or government of New Brunswick in English or French.
+    (a) there is a significant demand for communications with and services from that
+        office in such language; or
+    (b) due to the nature of the office, it is reasonable that communications with and
+        services from that office be available in both English and French.
+        Communications by public with New Brunswick institutions
+
+(2) Any member of the public in New Brunswick has the right to communicate
+    with, and to receive available services from, any office of an institution of the legislature
+    or government of New Brunswick in English or French.
 
 Continuation of existing constitutional provisions
 --------------------------------------------------
@@ -315,17 +324,18 @@ Language of instruction
 -----------------------
 
 23.
-   (1) Citizens of Canada
 
-       (a) whose first language learned and still understood is that of the English or
-           French linguistic minority population of the province in which they reside, or
-       (b) who have received their primary school instruction in Canada in English or
-           French and reside in a province where the language in which they received that
-           instruction is the language of the English or French linguistic minority population
-           of the province,
+(1) Citizens of Canada
 
-       have the right to have their children receive primary and secondary school instruction
-       in that language in that province.
+    (a) whose first language learned and still understood is that of the English or
+        French linguistic minority population of the province in which they reside, or
+    (b) who have received their primary school instruction in Canada in English or
+        French and reside in a province where the language in which they received that
+        instruction is the language of the English or French linguistic minority population
+        of the province,
+
+    have the right to have their children receive primary and secondary school instruction
+    in that language in that province.
 
 Continuity of language instruction
 ----------------------------------
@@ -355,9 +365,10 @@ Enforcement of guaranteed rights and freedoms
 ---------------------------------------------
 
 24.
-   (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have
-       been infringed or denied may apply to a court of competent jurisdiction to obtain
-       such remedy as the court considers appropriate and just in the circumstances.
+
+(1) Anyone whose rights or freedoms, as guaranteed by this Charter, have
+    been infringed or denied may apply to a court of competent jurisdiction to obtain
+    such remedy as the court considers appropriate and just in the circumstances.
 
 Exclusion of evidence bringing administration of justice into disrepute
 -----------------------------------------------------------------------
@@ -428,13 +439,14 @@ Application of Charter
 ----------------------
 
 32.
-   (1) This Charter applies
 
-       (a) to the Parliament and government of Canada in respect of all matters within
-           the authority of Parliament including all matters relating to the Yukon Territory
-           and Northwest Territories; and
-       (b) to the legislature and government of each province in respect of all matters
-           within the authority of the legislature of each province.
+(1) This Charter applies
+
+    (a) to the Parliament and government of Canada in respect of all matters within
+        the authority of Parliament including all matters relating to the Yukon Territory
+        and Northwest Territories; and
+    (b) to the legislature and government of each province in respect of all matters
+        within the authority of the legislature of each province.
 
 Exception
 ---------
@@ -446,10 +458,11 @@ Exception where express declaration
 -----------------------------------
 
 33.
-   (1) Parliament or the legislature of a province may expressly declare in an
-       Act of Parliament or of the legislature, as the case may be, that the Act or a provision
-       thereof shall operate notwithstanding a provision included in section 2 or sections
-       7 to 15 of this Charter.
+
+(1) Parliament or the legislature of a province may expressly declare in an
+    Act of Parliament or of the legislature, as the case may be, that the Act or a provision
+    thereof shall operate notwithstanding a provision included in section 2 or sections
+    7 to 15 of this Charter.
 
 Operation of exception
 ----------------------
