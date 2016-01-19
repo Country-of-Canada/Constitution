@@ -6,14 +6,15 @@ General procedure for amending Constitution of Canada
 =====================================================
 
 38.
-  (1) An amendment to the Constitution of Canada may be made by proclamation
-      issued by the Governor General under the Great Seal of Canada where so authorized
-      by
 
-      (a) resolutions of the Senate and House of Commons; and
-      (b) resolutions of the legislative assemblies of at least two-thirds of the provinces
-          that have, in the aggregate, according to the then latest general census, at least
-          fifty per cent of the population of all the provinces.
+(1) An amendment to the Constitution of Canada may be made by proclamation
+    issued by the Governor General under the Great Seal of Canada where so authorized
+    by
+
+    (a) resolutions of the Senate and House of Commons; and
+    (b) resolutions of the legislative assemblies of at least two-thirds of the provinces
+        that have, in the aggregate, according to the then latest general census, at least
+        fifty per cent of the population of all the provinces.
 
 Majority of members
 ===================
@@ -44,10 +45,11 @@ Restriction on proclamation
 ===========================
 
 39.
-   (1) A proclamation shall not be issued under subsection 38(1) before the expiration
-       of one year from the adoption of the resolution initiating the amendment
-       procedure thereunder, unless the legislative assembly of each province has previously
-       adopted a resolution of assent or dissent.
+
+(1) A proclamation shall not be issued under subsection 38(1) before the expiration
+    of one year from the adoption of the resolution initiating the amendment
+    procedure thereunder, unless the legislative assembly of each province has previously
+    adopted a resolution of assent or dissent.
 
 Idem
 ====
@@ -85,18 +87,19 @@ Amendment by general procedure
 ==============================
 
 42.
-  (1) An amendment to the Constitution of Canada in relation to the following
-      matters may be made only in accordance with subsection 38(1):
 
-      (a) the principle of proportionate representation of the provinces in the House of
-          Commons prescribed by the Constitution of Canada;
-      (b) the powers of the Senate and the method of selecting Senators;
-      (c) the number of members by which a province is entitled to be represented in
-          the Senate and the residence qualifications of Senators;
-      (d) subject to paragraph 41(d), the Supreme Court of Canada;
-      (e) the extension of existing provinces into the territories; and
-      (f) notwithstanding any other law or practice, the establishment of new
-          provinces.
+(1) An amendment to the Constitution of Canada in relation to the following
+    matters may be made only in accordance with subsection 38(1):
+
+    (a) the principle of proportionate representation of the provinces in the House of
+        Commons prescribed by the Constitution of Canada;
+    (b) the powers of the Senate and the method of selecting Senators;
+    (c) the number of members by which a province is entitled to be represented in
+        the Senate and the residence qualifications of Senators;
+    (d) subject to paragraph 41(d), the Supreme Court of Canada;
+    (e) the extension of existing provinces into the territories; and
+    (f) notwithstanding any other law or practice, the establishment of new
+        provinces.
 
 Exception
 =========
@@ -136,9 +139,10 @@ Initiation of amendment procedures
 ==================================
 
 46.
-  (1) The procedures for amendment under sections 38, 41, 42 and 43 may be
-      initiated either by the Senate or the House of Commons or by the legislative assembly
-      of a province.
+
+(1) The procedures for amendment under sections 38, 41, 42 and 43 may be
+    initiated either by the Senate or the House of Commons or by the legislative assembly
+    of a province.
 
 Revocation of authorization
 ===========================
@@ -150,12 +154,13 @@ Amendments without Senate resolution
 ====================================
 
 47.
-   (1) An amendment to the Constitution of Canada made by proclamation under
-       section 38, 41, 42 or 43 may be made without a resolution of the Senate authorizing
-       the issue of the proclamation if, within one hundred and eighty days after the
-       adoption by the House of Commons of a resolution authorizing its issue, the Senate
-       has not adopted such a resolution and if, at any time after the expiration of that period,
-       the House of Commons again adopts the resolution.
+
+(1) An amendment to the Constitution of Canada made by proclamation under
+    section 38, 41, 42 or 43 may be made without a resolution of the Senate authorizing
+    the issue of the proclamation if, within one hundred and eighty days after the
+    adoption by the House of Commons of a resolution authorizing its issue, the Senate
+    has not adopted such a resolution and if, at any time after the expiration of that period,
+    the House of Commons again adopts the resolution.
 
 Computation of period
 =====================
