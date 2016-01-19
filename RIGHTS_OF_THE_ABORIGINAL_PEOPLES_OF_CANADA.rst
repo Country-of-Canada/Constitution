@@ -6,8 +6,9 @@ Recognition of existing aboriginal and treaty rights
 ====================================================
 
 35.
-  (1) The existing aboriginal and treaty rights of the aboriginal peoples of
-      Canada are hereby recognized and affirmed.
+
+(1) The existing aboriginal and treaty rights of the aboriginal peoples of
+    Canada are hereby recognized and affirmed.
 
 Definition of “aboriginal peoples of Canada”
 ============================================
