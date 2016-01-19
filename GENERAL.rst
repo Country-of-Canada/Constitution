@@ -6,9 +6,10 @@ Primacy of Constitution of Canada
 =================================
 
 52.
-  (1) The Constitution of Canada is the supreme law of Canada, and any law
-      that is inconsistent with the provisions of the Constitution is, to the extent of the inconsistency,
-      of no force or effect.
+
+(1) The Constitution of Canada is the supreme law of Canada, and any law
+    that is inconsistent with the provisions of the Constitution is, to the extent of the inconsistency,
+    of no force or effect.
 
 Constitution of Canada
 ======================
@@ -29,9 +30,10 @@ Repeals and new names
 =====================
 
 53.
-  (1) The enactments referred to in Column I of the schedule are hereby repealed
-      or amended to the extent indicated in Column II thereof and, unless repealed,
-      shall continue as law in Canada under the names set out in Column III thereof.
+
+(1) The enactments referred to in Column I of the schedule are hereby repealed
+    or amended to the extent indicated in Column II thereof and, unless repealed,
+    shall continue as law in Canada under the names set out in Column III thereof.
 
 Consequential amendments
 ========================
@@ -89,9 +91,10 @@ Commencement of paragraph
 23(1)(a) in respect of Quebec
 
 59.
-  (1) Paragraph 23(1)(a) shall come into force in respect of Quebec on a day
-      to be fixed by proclamation issued by the Queen or the Governor General under the
-      Great Seal of Canada.
+  
+(1) Paragraph 23(1)(a) shall come into force in respect of Quebec on a day
+    to be fixed by proclamation issued by the Queen or the Governor General under the
+    Great Seal of Canada.
 
 Authorization of Quebec
 =======================
