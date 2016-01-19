@@ -31,13 +31,15 @@ Aboriginal and treaty rights are guaranteed equally to both sexes
 Commitment to participation in constitutional conference
 ========================================================
 
-35.1 The government of Canada and the provincial governments are committed
-     to the principle that, before any amendment is made to Class 24 of section 91 of the
-     “Constitution Act, 1867”, to section 25 of this Act or to this Part,
+35.1 
 
-     (a) a constitutional conference that includes in its agenda an item relating to the
-         proposed amendment, composed of the Prime Minister of Canada and the first
-         ministers of the provinces, will be convened by the Prime Minister of Canada;
-         and
-     (b) the Prime Minister of Canada will invite representatives of the aboriginal
-         peoples of Canada to participate in the discussions on that item.
+The government of Canada and the provincial governments are committed
+to the principle that, before any amendment is made to Class 24 of section 91 of the
+“Constitution Act, 1867”, to section 25 of this Act or to this Part,
+
+(a) a constitutional conference that includes in its agenda an item relating to the
+    proposed amendment, composed of the Prime Minister of Canada and the first
+    ministers of the provinces, will be convened by the Prime Minister of Canada;
+    and
+(b) the Prime Minister of Canada will invite representatives of the aboriginal
+    peoples of Canada to participate in the discussions on that item.
